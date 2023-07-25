@@ -39,7 +39,7 @@ a tag " ul" é usada para criar uma lita nao ordenada, que consiste em itens mar
 </ol>
   </p>
 <p>
-
+o html permite esspecificar o tipo de marcador de uma lista ordenada usando a propriedade " type", que pode ser "1" (numero), "a" ( letras minusculas)  "A"( letras maiusculas) ou "i" ( numeros romanos)
 </body>
 
 </html>
