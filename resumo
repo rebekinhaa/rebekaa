@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>reumo<
+/title>
+</head>
+
+<body>
+  <h1>
+  reumo das aulas front end
+  </h1>
+  <p>
+ Bom, começamos pelo HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o
+significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a
+aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web. Depois disso fomos
+para http é um protocolo de comunicação utilizado para sistemas de informatica de hipermídia, ele funciona como um
+sistema de solicitação resposta quando um navegador web faz uma solicitação a um servidor web. Após isso, teve os
+subdomínios que sua função principal seria organizar e agrupar recursos relacionados em uma seção separada de um
+domínio. Os domínios seriam os endereços dos sites, por exemplo o google sendo https(protocolo) email(subdomínio)
+google(domínio) .com(domínio secundário). Também vimos sobre os métodos GET e POST, o método GET é um dos métodos
+http(Hipertext Transfer Protocol) utilizados para requisitos e recursos em um servidor,já o POST também é um dos métodos
+http, mas é utilizado para enviar informações para o servidor.  
+  </p>
+ <p>
+ <ul>
+a tag " ul" é usada para criar uma lita nao ordenada, que consiste em itens marcados com simbolos como bullet points
+<li> item 1 <li>
+<li> item 2<li>
+<li> item 3 <li>
+</ul>
+ </p>
+  <p>
+   a tag " ol" é usada para criar uma lista ordenada, que consiste em itens numeradas
+<ol>
+<li> item 1 <li>
+<li> item 2 <li>
+<li> item 3 <li>
+</ol>
+  </p>
+<p>
+
+</body>
+
+</html>
